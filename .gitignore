@@ -1,0 +1,33 @@
+# Operating-system files
+.DS_Store
+.AppleDouble
+._*
+Thumbs.db
+Desktop.ini
+
+# Editor settings and temporary files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.tmp
+*.log
+
+# Private environment settings and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local assistant and hosting-tool settings
+.codex/
+.agents/
+.sites-runtime/
+.vercel/
+.netlify/
+
+# Optional tool caches (the website itself needs no build tools)
+node_modules/
+__pycache__/
