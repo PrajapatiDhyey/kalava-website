@@ -47,6 +47,8 @@ Never put passwords, API secrets or customer records in this repository.
 
 ## Hosting
 
+Live preview: [kalava-website.pages.dev](https://kalava-website.pages.dev/). Cloudflare Pages automatically publishes pushes to `main`. The custom domain `kalava.in` is not connected yet.
+
 This is a static website. Keep the code on GitHub and use Cloudflare Pages or another host that permits ecommerce websites. GitHub Pages does not allow ecommerce hosting. No build command is required; publish the repository root. Uploading code to GitHub does not automatically make the website live—hosting must be enabled separately.
 
 For detailed editing and hosting notes, read [WEBSITE_GUIDE.md](WEBSITE_GUIDE.md). The original discovery decisions are in [PROJECT_BRIEF.md](PROJECT_BRIEF.md).
