@@ -41,7 +41,7 @@ Each HTML page has a unique title, description and Open Graph text tags. JavaScr
 
 ## Static hosting
 
-Upload the HTML files plus `css/`, `js/` and `images/` to your GitHub repository and connect a static host, or enable GitHub Pages. No build command is needed; the root is the publish directory. Paths are relative so they also work under a GitHub project subdirectory. Add your custom domain through your host and configure its required DNS records. Do not publish personal customer data or payment credentials.
+Upload the HTML files plus `css/`, `js/` and `images/` to your GitHub repository and connect Cloudflare Pages or another static host that permits ecommerce. GitHub Pages does not allow ecommerce hosting; use GitHub for source code only. No build command is needed; the root is the publish directory. Paths are relative so they also work under a GitHub project subdirectory. Add your custom domain through your host and configure its required DNS records. Do not publish personal customer data or payment credentials.
 
 ## Files
 

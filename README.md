@@ -47,6 +47,6 @@ Never put passwords, API secrets or customer records in this repository.
 
 ## Hosting
 
-This is a static website. Use GitHub Pages or another static host. No build command is required; publish the repository root. Uploading code to GitHub does not automatically make the website live—hosting must be enabled separately.
+This is a static website. Keep the code on GitHub and use Cloudflare Pages or another host that permits ecommerce websites. GitHub Pages does not allow ecommerce hosting. No build command is required; publish the repository root. Uploading code to GitHub does not automatically make the website live—hosting must be enabled separately.
 
 For detailed editing and hosting notes, read [WEBSITE_GUIDE.md](WEBSITE_GUIDE.md). The original discovery decisions are in [PROJECT_BRIEF.md](PROJECT_BRIEF.md).
